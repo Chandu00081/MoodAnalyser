@@ -1,0 +1,3 @@
+C:\Users\pc\Desktop\stack n queue\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\stack n queue\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\stack n queue\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.CoreCompileInputs.cache
